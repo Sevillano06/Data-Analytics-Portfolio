@@ -19,3 +19,9 @@ Realizar un análisis exploratorio de un conjunto de datos de ventas de retail s
 - Limpieza exhaustiva de datos.
 - Análisis descriptivo con SQL.
 - Visualización de insights con Power BI / Tableau.
+
+## Competencias demostradas en este proyecto:
+- Organización de directorios para proyectos de datos (`data`, `notebooks`, `reports`).
+- Exploración inicial de un dataset real (`retail_sales_dataset.csv`).
+- Documentación estructurada usando Markdown.
+- (Opcional) Uso básico de Python y Pandas para exploración descriptiva.
