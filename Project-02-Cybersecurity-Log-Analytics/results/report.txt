@@ -1,0 +1,20 @@
+CYBERSECURITY LOG ANALYTICS REPORT
+===================================
+
+Total logs: 9
+
+Failed logins:
+5
+
+Successful logins:
+4
+
+Top users:
+- admin (3 intentos)
+- juan (3 intentos)
+- root (2 intentos)
+
+Top IP:
+- 192.168.1.25 (3 intentos)
+- 10.10.0.5 (3 intentos)
+- 172.16.1.8 (2 intentos)
